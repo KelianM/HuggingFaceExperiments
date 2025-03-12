@@ -6,3 +6,4 @@ torch
 rich
 bitsandbytes
 gradio
+flash-attn

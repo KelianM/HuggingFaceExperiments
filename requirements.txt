@@ -8,3 +8,5 @@ bitsandbytes
 gradio
 flash-attn
 scikit-learn
+bitsandbytes
+loralib
